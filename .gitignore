@@ -1,0 +1,5 @@
+
+# Keylogger specific
+keylogger/.env
+keyloader/*.log
+keylogger/__pycache__/
